@@ -1,0 +1,8 @@
+.history
+*.dSYM/
+build/
+.DS_Store
+fd_example
+mmap_example
+shm_example
+test.txt
