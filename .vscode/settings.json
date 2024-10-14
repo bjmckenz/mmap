@@ -1,6 +1,37 @@
 {
-    "files.associations": {
-        "types.h": "c",
-        "string.h": "c"
-    }
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#e0c4af",
+    "activityBar.background": "#e0c4af",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#358a5a",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#15202b99",
+    "sash.hoverBorder": "#e0c4af",
+    "statusBar.background": "#d2a98a",
+    "statusBar.foreground": "#15202b",
+    "statusBarItem.hoverBackground": "#c48e65",
+    "statusBarItem.remoteBackground": "#d2a98a",
+    "statusBarItem.remoteForeground": "#15202b",
+    "titleBar.activeBackground": "#d2a98a",
+    "titleBar.activeForeground": "#15202b",
+    "titleBar.inactiveBackground": "#d2a98a99",
+    "titleBar.inactiveForeground": "#15202b99"
+  },
+  "peacock.color": "#d2a98a",
+  // Using the light mode
+  "indentRainbow.indicatorStyle": "light",
+  // we use a simple 1 pixel wide line
+  "indentRainbow.lightIndicatorStyleLineWidth": 1,
+  // the same colors as above but more visible
+  "indentRainbow.colors": [
+    "rgba(50,255,100,1.0)",
+    "rgba(100,255,127,1.0)",
+    "rgba(50,127,255,1.0)",
+    "rgba(50,236,236,1.0)"
+  ],
+  "indentRainbow.errorColor": "rgba(190,190,190,0.1)",
+  "files.associations": {
+    "stdio.h": "c"
+  }
 }
